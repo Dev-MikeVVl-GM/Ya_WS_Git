@@ -15,6 +15,8 @@
 
 [Beg](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github "Основные сведения о подготовке материалов и форматировании на GitHub")  
 [FMS](https://github.github.com/gfm/ "GitHub Flavored Markdown Spec")  
+[Markdown Cheat Sheet  Markdown Guide](https://www.markdownguide.org/cheat-sheet/)  
+
 
 ---
 
